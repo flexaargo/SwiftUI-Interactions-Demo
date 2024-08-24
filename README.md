@@ -4,9 +4,13 @@ This small project was inspired by a [post](https://x.com/duyluongdesign/status/
 
 I love making things in SwiftUI and thought it would be a fun challenge to recreate what I had seen.
 
-|Duy Luong's Version|My Version|
-|-|-|
-|<img src="original_demo.gif" height="400"/>|<img src="my_demo.gif" height="400"/>|
+|Duy Luong's Version|
+|-|
+|<img src="original_demo.gif" height="400"/>|
+
+|My Version|
+|-|
+|<img src="my_demo.gif" height="400"/> <img src="my_demo_dark.gif" height="400"/>|
 
 There are lot of great bits and pieces that someone newer to SwiftUI may be able to learn from this project. SwiftUI is a simple looking tool but quite advanced under the hood and is capable of very powerful stuff. It's also easy to misuse. This project isn't going to teach you how to architect anything in SwiftUI but you might learn a thing or two about animations or some View modifiers
 
